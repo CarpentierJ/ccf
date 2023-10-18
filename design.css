@@ -17,7 +17,6 @@
 }
 #contenu {
     color: black;
-    width: 50%;
 }
 
 #image {
@@ -25,14 +24,14 @@
     color: black;
     text-align: center;
     width: 50%;
-    position: relative;
+    position: static;
 }
 
 #tableau {
     background-color: rgb(47, 255, 158);
     color: black;
     width: 50%;
-    position: relative;
+    position: static;
     border-collapse: collapse;
     border: 1px solid black;
     text-align: left;
